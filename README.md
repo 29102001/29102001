@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leandro Silva
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leandro.nobrega2001@gmail.com
 
