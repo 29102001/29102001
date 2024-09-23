@@ -17,7 +17,6 @@ Facinado pela tecnologia e produtos da Apple
 
 ### 🌟 Atualmente Estou Trabalhando Em
 
-- **[Meu Projeto Pessoal](link-do-projeto)**<br>
   Desenvolvendo um aplicativo com foco em:
 
   - 🖌️ **UIKit** utilizando **View Code**
