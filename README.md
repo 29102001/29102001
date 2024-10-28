@@ -32,6 +32,10 @@ Facinado pela tecnologia e produtos da Apple
 - LinkedIn: [MeuPerfil](https://www.linkedin.com/in/leandro-da-nóbrega-silva-3a7b121aa/)
 - E-mail: leandro.nobrega2001@gmail.com
 
+### 🤝 Portfólio
+
+- Notion: [portfolio](https://big-ski-082.notion.site/Portfolio-iOS-126406183fbd8089b557e02f49133b35)
+
 ---
 
 *“A melhor maneira de prever o futuro é inventá-lo.”* – Alan Kay
